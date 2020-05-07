@@ -11,7 +11,8 @@
 	<test name="Hub Spot sanity test" >
 	    <classes>
 	       <class name="com.qa.hubspot.tests.LoginTest" />
-	       <!--  <class name="com.qa.hubspot.tests.HomePageTest" />-->
+	       <class name="com.qa.hubspot.tests.HomePageTest" />
+	       <class name="com.qa.hubspot.tests.ContactsPageTest" />
 	    </classes>
 	</test>
 </suite>
