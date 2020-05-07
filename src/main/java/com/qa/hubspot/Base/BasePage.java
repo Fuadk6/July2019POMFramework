@@ -13,7 +13,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+/**
+ * 
+ * @author Fuadkhan
+ *
+ */
 public class BasePage {
 	
 	//for every page we need a driver
