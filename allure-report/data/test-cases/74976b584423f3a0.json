@@ -1,0 +1,92 @@
+{
+  "uid" : "74976b584423f3a0",
+  "name" : "login test with correct username and password...",
+  "fullName" : "com.qa.hubspot.tests.LoginTest.loginTest",
+  "historyId" : "4bfb0b3290b8143d43be18b398671a04",
+  "time" : {
+    "start" : 1588621713500,
+    "stop" : 1588621722052,
+    "duration" : 8552
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1588621704989,
+      "stop" : 1588621713224,
+      "duration" : 8235
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1588621722091,
+      "stop" : 1588621723152,
+      "duration" : 1061
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.hubspot.tests.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.hubspot.tests.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Hub Spot Test Sanity Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Hub Spot sanity test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.hubspot.tests.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QFU6CGB"
+  }, {
+    "name" : "thread",
+    "value" : "4848@DESKTOP-QFU6CGB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74976b584423f3a0.json",
+  "parameterValues" : [ ]
+}

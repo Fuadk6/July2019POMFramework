@@ -1,0 +1,21 @@
+[ {
+  "uid" : "76b85170d4e78af4",
+  "name" : "login test with correct username and password...",
+  "time" : {
+    "start" : 1588621994696,
+    "stop" : 1588622003573,
+    "duration" : 8877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e69ead95eb15f64c",
+  "name" : "login page title test...",
+  "time" : {
+    "start" : 1588622010565,
+    "stop" : 1588622016345,
+    "duration" : 5780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

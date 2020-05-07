@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Hub Spot Test Sanity Suite",
+    "children" : [ {
+      "name" : "Hub Spot sanity test",
+      "children" : [ {
+        "name" : "com.qa.hubspot.tests.LoginTest",
+        "children" : [ {
+          "name" : "login test with correct username and password...",
+          "uid" : "76b85170d4e78af4",
+          "parentUid" : "e7835264f6ef020d144f0c12ea545b2f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1588621994696,
+            "stop" : 1588622003573,
+            "duration" : 8877
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "login page title test...",
+          "uid" : "e69ead95eb15f64c",
+          "parentUid" : "e7835264f6ef020d144f0c12ea545b2f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1588622010565,
+            "stop" : 1588622016345,
+            "duration" : 5780
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e7835264f6ef020d144f0c12ea545b2f"
+      } ],
+      "uid" : "7e0f039df1629ec375f2f8938ce78ddc"
+    } ],
+    "uid" : "3dd891c58f1ad03f912a77a99c09d859"
+  } ]
+}

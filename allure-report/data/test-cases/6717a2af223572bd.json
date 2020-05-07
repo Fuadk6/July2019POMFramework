@@ -1,0 +1,92 @@
+{
+  "uid" : "6717a2af223572bd",
+  "name" : "login page title test...",
+  "fullName" : "com.qa.hubspot.tests.LoginTest.loginPageTitleTest",
+  "historyId" : "6f705b8444b8f834247ee5540bcd7818",
+  "time" : {
+    "start" : 1588621729337,
+    "stop" : 1588621736112,
+    "duration" : 6775
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1588621723162,
+      "stop" : 1588621729325,
+      "duration" : 6163
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1588621736117,
+      "stop" : 1588621736826,
+      "duration" : 709
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.hubspot.tests.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.hubspot.tests.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginPageTitleTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Hub Spot Test Sanity Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Hub Spot sanity test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.hubspot.tests.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QFU6CGB"
+  }, {
+    "name" : "thread",
+    "value" : "4848@DESKTOP-QFU6CGB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6717a2af223572bd.json",
+  "parameterValues" : [ ]
+}

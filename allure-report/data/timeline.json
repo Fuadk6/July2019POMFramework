@@ -1,0 +1,99 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-QFU6CGB",
+    "children" : [ {
+      "name" : "4632@DESKTOP-QFU6CGB.main(1)",
+      "children" : [ {
+        "name" : "login page title test...",
+        "uid" : "54210a6d5c7b692",
+        "parentUid" : "ed09a5151c73eb8cc6b004395d452ab2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588617331283,
+          "stop" : 1588617337015,
+          "duration" : 5732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login test with correct username and password...",
+        "uid" : "69f5219e08bba63d",
+        "parentUid" : "ed09a5151c73eb8cc6b004395d452ab2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588617315704,
+          "stop" : 1588617324387,
+          "duration" : 8683
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed09a5151c73eb8cc6b004395d452ab2"
+    }, {
+      "name" : "5140@DESKTOP-QFU6CGB.main(1)",
+      "children" : [ {
+        "name" : "login page title test...",
+        "uid" : "e69ead95eb15f64c",
+        "parentUid" : "9964ef5f92ed30f0df361d88f3c5668b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588622010565,
+          "stop" : 1588622016345,
+          "duration" : 5780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login test with correct username and password...",
+        "uid" : "76b85170d4e78af4",
+        "parentUid" : "9964ef5f92ed30f0df361d88f3c5668b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588621994696,
+          "stop" : 1588622003573,
+          "duration" : 8877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9964ef5f92ed30f0df361d88f3c5668b"
+    }, {
+      "name" : "4848@DESKTOP-QFU6CGB.main(1)",
+      "children" : [ {
+        "name" : "login page title test...",
+        "uid" : "6717a2af223572bd",
+        "parentUid" : "067dd9b8d4cc2569783861f71a664211",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588621729337,
+          "stop" : 1588621736112,
+          "duration" : 6775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login test with correct username and password...",
+        "uid" : "74976b584423f3a0",
+        "parentUid" : "067dd9b8d4cc2569783861f71a664211",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588621713500,
+          "stop" : 1588621722052,
+          "duration" : 8552
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "067dd9b8d4cc2569783861f71a664211"
+    } ],
+    "uid" : "5e114b9ade8a8bddd6440899f2c75a28"
+  } ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.qa.hubspot.tests.LoginTest",
+    "children" : [ {
+      "name" : "loginTest",
+      "uid" : "76b85170d4e78af4",
+      "parentUid" : "24a5483280ef547fb128a8989d760466",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588621994696,
+        "stop" : 1588622003573,
+        "duration" : 8877
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginPageTitleTest",
+      "uid" : "e69ead95eb15f64c",
+      "parentUid" : "24a5483280ef547fb128a8989d760466",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588622010565,
+        "stop" : 1588622016345,
+        "duration" : 5780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.qa.hubspot.tests.LoginTest"
+  } ]
+}

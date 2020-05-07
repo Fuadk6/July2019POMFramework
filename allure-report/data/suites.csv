@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 04 15:53:14 EDT 2020","Mon May 04 15:53:23 EDT 2020","8877","Hub Spot Test Sanity Suite","Hub Spot sanity test","com.qa.hubspot.tests.LoginTest","com.qa.hubspot.tests.LoginTest","loginTest","login test with correct username and password...",""
+"passed","Mon May 04 15:53:30 EDT 2020","Mon May 04 15:53:36 EDT 2020","5780","Hub Spot Test Sanity Suite","Hub Spot sanity test","com.qa.hubspot.tests.LoginTest","com.qa.hubspot.tests.LoginTest","loginPageTitleTest","login page title test...",""
