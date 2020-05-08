@@ -39,10 +39,11 @@ public class HomePageTest {
 	}
 	
 	@Test(priority=2)
-	public void verifyHomePageHeaderTest() {
-		String headerValue = homePage.getHomePageeHeaderValue();
-		System.out.println("Home page header is "+ headerValue);
-		Assert.assertEquals(headerValue, Constants.HOME_PAGE_HEADER);
+	public void verifyUserLoggedIn() {	
+		homePage.clickOnContactMenu();
+		String signOutText = homePage.signOutButtonIsVisible();
+		System.out.println("Contact Menu displays "+ signOutText);
+		Assert.assertEquals(signOutText, Constants.SIGN_OUT_BUTTON);
 	}
 	@AfterMethod
 	public void tearDown() {
